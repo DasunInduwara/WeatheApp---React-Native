@@ -9,11 +9,7 @@ This React Native application serves as a weather forecasting app, showcasing AP
 ### Installation
 1. Clone this repository.
 2. Navigate to the project directory.
-3. Run ```
-npm install
-``` or ```
-yarn install
-``` to install dependencies.
+3. Run `npm install` or `yarn install` to install dependencies.
 
 ### Setting up WeatherAPI Key
 1. Sign up on [WeatherAPI.com](https://www.weatherapi.com/ "WeatherAPI.com").
